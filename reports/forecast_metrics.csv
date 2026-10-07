@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE
+Naive,2.2723,2.8743,5.4368
+Seasonal Naive,5.1959,6.0363,12.1581
+Random Forest,0.7251,0.9444,1.7434

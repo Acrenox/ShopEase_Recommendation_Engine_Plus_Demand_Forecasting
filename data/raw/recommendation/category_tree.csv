@@ -1,0 +1,4 @@
+category_id,parent_id,category_name
+1,0,Electronics
+2,0,Home
+3,0,Fashion
